@@ -30,8 +30,8 @@ Here are some ideas to get you started:
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media3.giphy.com/media/fxsZjkEjAp0R2b396m/source.gif">
 </div>
 
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ 
   <a href = "mailto:thaismelow@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://https://www.linkedin.com/in/thais-cristiane-de-melo-b330a6235" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/tha%C3%ADs-cristiane-de-melo-b330a6235" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
