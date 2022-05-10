@@ -1,5 +1,5 @@
-### OI MEU NOME É THAIS, TUDO BEM?
-Olá Mundo rsrsrs, meu nome é Thais 👋
+### Oláaa Mundo!
+Meu nome é Thais, TUDO BEM? 👋
 Atualmente estou cursando, Análise e desenvolvimento de sistemas e atuando como programadora Back-end e Front-end e vice versa rsrsrs😄
 <!--
 **Thais-Cristiane-Melo/Thais-Cristiane-Melo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
