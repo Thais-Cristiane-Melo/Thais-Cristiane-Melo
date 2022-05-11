@@ -1,4 +1,4 @@
-### Oláaa Mundo!
+### Oláaa, Mundo!
 Meu nome é Thais, TUDO BEM? 👋
 Atualmente estou cursando, Análise e desenvolvimento de sistemas e atuando como programadora Back-end e Front-end e vice versa rsrsrs😄
 <!--
@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<img align="right" alt="Thais-pic" height="150" style="border-radius:50px;" src="https://media3.giphy.com/media/fxsZjkEjAp0R2b396m/source.gif">
+</div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thais-Cristiane-Melo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
@@ -27,8 +28,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Thais-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thais-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Thais-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media3.giphy.com/media/fxsZjkEjAp0R2b396m/source.gif">
-</div>
+  
 
  
   <a href = "mailto:thaismelow@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
