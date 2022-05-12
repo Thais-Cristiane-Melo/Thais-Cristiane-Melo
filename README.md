@@ -31,12 +31,13 @@ Here are some ideas to get you started:
   
   <img align="right" alt="Thais-pic" height="150" style="border-radius:50px;" src="https://pa1.narvii.com/6906/589e4adce207777ec6d1f6716af670ca7ee4e5c4r1-500-282_hq.gif">
   
-   ![Snake animation](https://github.com/Thais-Cristiane-Melo/Thais-Cristiane-Melo/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
 
  
   <a href = "mailto:thaismelow@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tha%C3%ADs-cristiane-de-melo-b330a6235" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ![Snake animation](https://github.com/Thais-Cristiane-Melo/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
  
  
