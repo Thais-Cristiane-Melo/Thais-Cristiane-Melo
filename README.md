@@ -27,6 +27,15 @@ Here are some ideas to get you started:
   <img align="center" alt="Thais-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thais-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thais-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mysql" 
+src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" alt="Java" 
+src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img align="center" alt="GITHUB"
+src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
+<br>
+<br>  
+  
   
   
   <img align="right" alt="Thais-pic" height="150" style="border-radius:50px;" src="https://pa1.narvii.com/6906/589e4adce207777ec6d1f6716af670ca7ee4e5c4r1-500-282_hq.gif">
