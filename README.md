@@ -33,9 +33,10 @@ src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&lo
 src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img align="center" alt="GITHUB"
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
+  <img align="center" alt="CAMVA"
+  src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white">
 <br>
 <br>  
-  
   
   
   <img align="right" alt="Thais-pic" height="150" style="border-radius:50px;" src="https://pa1.narvii.com/6906/589e4adce207777ec6d1f6716af670ca7ee4e5c4r1-500-282_hq.gif">
@@ -43,6 +44,6 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
  
   <a href = "mailto:thaismelow@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tha%C3%ADs-cristiane-de-melo-b330a6235" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
   
   
