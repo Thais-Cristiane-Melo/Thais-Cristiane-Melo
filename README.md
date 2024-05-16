@@ -1,6 +1,6 @@
 ### Oláaa, Mundo!
 Meu nome é Thais, TUDO BEM? 👋
-Atualmente estou cursando Análise e desenvolvimento de sistemas e atuando como programadora Back-end e Front-end e vice versa rsrsrs😄
+Sou formada em Análise e desenvolvimento de sistemas e presto serviço como suporte técnico de TI. 
 <!--
 **Thais-Cristiane-Melo/Thais-Cristiane-Melo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
